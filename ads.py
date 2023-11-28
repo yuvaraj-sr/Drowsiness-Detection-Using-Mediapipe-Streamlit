@@ -12,20 +12,10 @@ css_string = """
             <div class="sidebar">
 
             <div class="side-block">
-            <a target="_blank" href="https://opencv.org/courses" rel="noopener">
-            <img src="https://learnopencv.com/wp-content/uploads/2022/03/opencv-course1.png" alt="Opencv Courses">
+            <a target="_blank" href="https://vit.ac.in" rel="noopener">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" style="width: 200px; height: 200px;" alt="Opencv Courses">
             </div>
-            <div class="side-block">
-            <a href="https://learnopencv.com" class="button ">Subscribe To My Newsletter</a>
-            <div class="side-block">
-            </div>
-            <a target="_blank" href="https://pallet.xyz/list/ai-jobs?" rel="noopener">
-            <img src="https://learnopencv.com/wp-content/uploads/2022/02/learnopencv-ai-jobs.jpg" alt="Opencv Courses">
-            </div>
-            <div class="side-block">
-            <a target="_blank" href="https://bigvision.ai" rel="noopener">
-            <img src="https://learnopencv.com/wp-content/uploads/2022/02/bigvision.jpg" alt="Opencv Courses"></a>
-            </div>
+           
             </div> 
 
             """

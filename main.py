@@ -15,20 +15,15 @@ alarm_file_path = os.path.join("audio", "wake_up.wav")
 
 # Streamlit Components
 st.set_page_config(
-    page_title="Drowsiness Detection | LearnOpenCV",
-    page_icon="https://learnopencv.com/wp-content/uploads/2017/12/favicon.png",
-    layout="wide",  # centered, wide
-    initial_sidebar_state="expanded",
-    menu_items={
-        "About": "### Visit www.learnopencv.com for more exciting tutorials!!!",
-    },
+    page_title="yuvaraj's project",
+   
 )
 
 
 col1, col2 = st.columns(spec=[6, 2], gap="medium")
 
 with col1:
-    st.title("Drowsiness Detection!!!🥱😪😴")
+    st.title("Drowsiness Detection System")
     with st.container():
         c1, c2 = st.columns(spec=[1, 1])
         with c1:
